@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+	<title></title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, inital-scale=1.0">
+    </head>
+    <body>
+	<h1>Iiro Sipola</h1>
+	    <p>Terveppä terve tässä linkki <a href="http://curling.fi/">Curling.fi</a></p>
+	    <h2>Hobbies</h2>
+	    <ul>
+		<li>Curling</li>
+		<li>Music</li>
+		<li>Being dad</li>
+	    </ul>
+	    <p><a href="gallery.html"> Link to Image Gallery</a></p>
+    </body>
+</html>
+
+>

@@ -1,0 +1,15 @@
+Käytin tehtävässä Emacsia (index.html), Vim:ä (gallery.html) sekä nanoa(music.html).
+
+github url: 
+
+1. Emacs ja nano tuntuivat helpoilta alusta asti. Varsinkin nanon shortcutit tuntuivat löytyvän heti alusta. Vimin command/insert moden vaihtaminen ei luonnistunut ollenkaan. Oli todella hankala tehdä mitään sillä. Emacsin web-mode oli kätevä sivuston pohjan tekemisessä.
+
+2. Helpoin ja ehkä tässä vaiheessa lähinnä selkein oli mielestäni nano. Emacsin snippetit ovat varmasti käteviä, kunhan niihin tutustuisi hieman laajemmin. Vim tuntui vaikealta.
+
+3. Emacsin kätevin juttu oli mielestäni valmis html-pohja. Kovin syvälle en emacsissa vielä ehtinyt. Nanon paras feature mielestäni oli clipboard ja sen maalaustyökalu. Selkeyttää kovasti tämmöiselle aloittelijalle asioita. Vim oli liian sekava. Tärkein feature varmasti tuo command/insert, johon en itse päässyt vielä sisään.
+
+4. Nopeudesta en oikein osaa vielä sanoa. Nano osoittautui omalle tavalleni ainakin näin alkuun nopeimmaksi.
+
+5. Ongelmia oli Vimin kanssa. Moden vaihtaminen aiheutti sekaannuksia kirjoittamisessa ja oli hankala seurata voinko syöttää tekstä vai en. Kahden muun kanssa ei ongelmia juuri tullut.
+
+6. Jatkossa aion opiskella Vimin käyttöä, sillä se on ilmeisesti suosituin editorti joka tulee työelämässä vastaan. Emacsia voisin kuvitella käyttäväni html-juttujen kanssa, sillä web-modm vaikuttaa todella kätevältä.
