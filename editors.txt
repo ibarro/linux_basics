@@ -1,6 +1,7 @@
+
 Käytin tehtävässä Emacsia (index.html), Vim:ä (gallery.html) sekä nanoa(music.html).
 
-github url: 
+github url:  3github url: https://github.com/ibarro/linux_basics 
 
 1. Emacs ja nano tuntuivat helpoilta alusta asti. Varsinkin nanon shortcutit tuntuivat löytyvän heti alusta. Vimin command/insert moden vaihtaminen ei luonnistunut ollenkaan. Oli todella hankala tehdä mitään sillä. Emacsin web-mode oli kätevä sivuston pohjan tekemisessä.
 
